@@ -9,7 +9,7 @@
 
 ## 更新与转换
 
-GitHub Actions 每 24 小时检查一次（每天北京时间 08:17，UTC 00:17；实际触发可能延迟） `aaANDkk/Qure_Style_SVG` 的 `main` 分支，也支持手动运行。SVG 发生变化后，以固定版本的 `resvg` 转成 256×256 PNG，校验 PNG 签名/尺寸/哈希后，仅提交发生变化的内容。新增、修改、删除的图标都会同步。Actions 无须额外 PAT/Secrets。
+GitHub Actions 每 24 小时检查一次（每天北京时间 22:00，UTC 14:00；实际触发可能延迟） `aaANDkk/Qure_Style_SVG` 的 `main` 分支，也支持手动运行。SVG 发生变化后，以固定版本的 `resvg` 转成 256×256 PNG，校验 PNG 签名/尺寸/哈希后，仅提交发生变化的内容。新增、修改、删除的图标都会同步。Actions 无须额外 PAT/Secrets。
 
 本项目自身的同步代码、依赖锁文件或状态文件提交会触发一次同步校准；PNG 与上游均无变化时不会产生同步空提交。
 
