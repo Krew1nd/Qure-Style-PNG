@@ -1,6 +1,6 @@
 {
   "upstream": "aaANDkk/Qure_Style_SVG",
-  "upstream_commit": "c5792d2f91659e00e087c8282c8edf62ff422049",
+  "upstream_commit": "1d9f1919088f5dff3d00e70111328d3cfc1dbb17",
   "renderer": "resvg-2.6.2-256-v1",
   "size": 256,
   "count": 2370,
