@@ -1,1 +1,132 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144"><g data-canvas-fit="2px" transform="matrix(1.073619632 0 0 1.073619632 -5.300613497 -4.441717791)"><defs><clipPath id="canvas-fit-clip" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="144" height="144"/></clipPath></defs><g clip-path="url(#canvas-fit-clip)"><title>百变小樱</title><defs><linearGradient id="hair" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#E7A4B8" /><stop offset="1" stop-color="#D597A9" /></linearGradient><linearGradient id="shade" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#D799AB" /><stop offset="1" stop-color="#BD8697" /></linearGradient><linearGradient id="skin" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#FFF1E5" /><stop offset="1" stop-color="#F4D6C8" /></linearGradient><linearGradient id="shirt" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#A96383" /><stop offset="1" stop-color="#90546F" /></linearGradient></defs><g transform="matrix(1.00000000 0 0 1.00000000 0.00000095 0.00000000)"><g transform="matrix(1.00000000 0 0 1.00000000 -0.00000095 0.00000000)"><g transform="matrix(1.00000000 0 0 1.00000000 0.00000095 0.00000000)"><g transform="matrix(0.99999988 0 0 0.99999988 0.00000260 0.00000069)"><g transform="matrix(0.96129571 0 0 0.96129571 2.78671350 -1.62819677)"><path d="M28 44Q6 38 10 81L8 126Q22 140 33 118L38 58ZM116 44Q138 38 134 81L136 126Q122 140 111 118L106 58Z" fill="url(#shade)" /><path d="M26 140Q33 126 57 122L72 127L87 122Q111 126 118 140Q72 147 26 140Z" fill="url(#shirt)" /><path d="M63 111H81V124Q72 130 63 124Z" fill="url(#skin)" /><path d="M33 58C33 38 47 31 72 31S111 38 111 58C111 75 112 90 104 104C96 118 83 125 72 127C61 125 48 118 40 104C32 90 33 75 33 58Z" fill="url(#skin)" /><path d="M30 65C21 34 35 13 58 10C88 2 114 18 114 45Q115 57 108 66Q94 59 86 41C81 56 76 64 69 69C55 59 51 43 49 34Q43 56 30 65Z" fill="url(#hair)" /><path d="M34 49Q35 24 56 18" fill="none" stroke="#E7A4B8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" /><path d="M105 39Q100 23 85 18" fill="none" stroke="#E7A4B8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" /><ellipse cx="54" cy="79" rx="10" ry="11" fill="#FFF9F5" /><ellipse cx="54" cy="80" rx="5" ry="8.58" fill="#A96383" /><ellipse cx="54" cy="81" rx="2.5" ry="6.050000000000001" fill="#354358" /><ellipse cx="56" cy="76" rx="2" ry="2" fill="#FFF" /><ellipse cx="52" cy="84" rx="1" ry="1" fill="#DCEFF9" /><path d="M44 74Q54 65 64 74" fill="none" stroke="#665268" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><ellipse cx="90" cy="79" rx="10" ry="11" fill="#FFF9F5" /><ellipse cx="90" cy="80" rx="5" ry="8.58" fill="#A96383" /><ellipse cx="90" cy="81" rx="2.5" ry="6.050000000000001" fill="#354358" /><ellipse cx="92" cy="76" rx="2" ry="2" fill="#FFF" /><ellipse cx="88" cy="84" rx="1" ry="1" fill="#DCEFF9" /><path d="M80 74Q90 65 100 74" fill="none" stroke="#665268" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><path d="M44 62Q53 58 61 62" fill="none" stroke="#C28A9B" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" /><path d="M83 62Q91 58 99 62" fill="none" stroke="#C28A9B" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" /><ellipse cx="43" cy="96" rx="6" ry="2.8" fill="#EEB1B0" /><ellipse cx="101" cy="96" rx="6" ry="2.8" fill="#EEB1B0" /><path d="M66 106Q72 112 78 106" fill="none" stroke="#B77C87" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" /><path d="M57 123L70 129L64 135Q54 132 50 126Z M87 123L74 129L80 135Q90 132 94 126Z" fill="#F6F3F1" /><g transform="translate(25 57) scale(0.55)"><path d="M0 0Q-23-18-24-3Q-26 17 0 7Q24 18 24-3Q23-18 0 0Z" fill="#CB6B82" /><ellipse cx="0" cy="4" rx="5" ry="5" fill="#B76075" /></g><g transform="translate(119 57) scale(0.55)"><path d="M0 0Q-23-18-24-3Q-26 17 0 7Q24 18 24-3Q23-18 0 0Z" fill="#CB6B82" /><ellipse cx="0" cy="4" rx="5" ry="5" fill="#B76075" /></g><ellipse cx="129.0" cy="119.0" rx="5.2" ry="5.2" fill="#DE8DA7" /><ellipse cx="123.47213595499957" cy="126.60845213036123" rx="5.2" ry="5.2" fill="#DE8DA7" /><ellipse cx="114.52786404500043" cy="123.70228201833979" rx="5.2" ry="5.2" fill="#DE8DA7" /><ellipse cx="114.52786404500043" cy="114.29771798166021" rx="5.2" ry="5.2" fill="#DE8DA7" /><ellipse cx="123.47213595499957" cy="111.39154786963877" rx="5.2" ry="5.2" fill="#DE8DA7" /><ellipse cx="121" cy="119" rx="3.6" ry="3.6" fill="#F6D57F" /></g></g></g></g></g></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+  <title>BaiBianXiaoYing</title>
+  <desc>Qure-style head-only anime Cardcaptor Sakura vector redraw of BaiBianXiaoYing (bbxy01.com); 144x144 canvas with 2px margin.</desc>
+  <defs>
+    <linearGradient id="sk-hat-main" gradientUnits="userSpaceOnUse" x1="16" y1="8" x2="122" y2="92">
+      <stop offset="0" stop-color="#FF7FA4" />
+      <stop offset="0.48" stop-color="#F24978" />
+      <stop offset="1" stop-color="#C82656" />
+    </linearGradient>
+    <linearGradient id="sk-hat-shade" gradientUnits="userSpaceOnUse" x1="6" y1="36" x2="48" y2="112">
+      <stop offset="0" stop-color="#E53D6E" />
+      <stop offset="1" stop-color="#A51D48" />
+    </linearGradient>
+    <linearGradient id="sk-hat-plum" gradientUnits="userSpaceOnUse" x1="82" y1="6" x2="126" y2="34">
+      <stop offset="0" stop-color="#964D82" />
+      <stop offset="1" stop-color="#6E3060" />
+    </linearGradient>
+    <linearGradient id="sk-hair-main" gradientUnits="userSpaceOnUse" x1="76" y1="18" x2="84" y2="134">
+      <stop offset="0" stop-color="#F59F6B" />
+      <stop offset="0.44" stop-color="#DB7646" />
+      <stop offset="0.82" stop-color="#B95634" />
+      <stop offset="1" stop-color="#913C28" />
+    </linearGradient>
+    <linearGradient id="sk-hair-back" gradientUnits="userSpaceOnUse" x1="78" y1="54" x2="96" y2="136">
+      <stop offset="0" stop-color="#A84D36" />
+      <stop offset="1" stop-color="#6B3146" />
+    </linearGradient>
+    <linearGradient id="sk-hair-shine" gradientUnits="userSpaceOnUse" x1="42" y1="38" x2="114" y2="52">
+      <stop offset="0" stop-color="#FFE2C6" stop-opacity="0.12" />
+      <stop offset="0.5" stop-color="#FFE8CE" stop-opacity="0.86" />
+      <stop offset="1" stop-color="#FFE2C6" stop-opacity="0.12" />
+    </linearGradient>
+    <linearGradient id="sk-skin" gradientUnits="userSpaceOnUse" x1="78" y1="48" x2="84" y2="136">
+      <stop offset="0" stop-color="#FFF7F0" />
+      <stop offset="0.72" stop-color="#FFE8DA" />
+      <stop offset="1" stop-color="#F7CFBC" />
+    </linearGradient>
+    <radialGradient id="sk-blush-l" gradientUnits="userSpaceOnUse" cx="55" cy="105" r="13">
+      <stop offset="0" stop-color="#FF94A8" stop-opacity="0.62" />
+      <stop offset="1" stop-color="#FF94A8" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="sk-blush-r" gradientUnits="userSpaceOnUse" cx="107" cy="103" r="12">
+      <stop offset="0" stop-color="#FF94A8" stop-opacity="0.62" />
+      <stop offset="1" stop-color="#FF94A8" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="sk-iris" gradientUnits="userSpaceOnUse" x1="0" y1="-12" x2="0" y2="12">
+      <stop offset="0" stop-color="#1E291B" />
+      <stop offset="0.38" stop-color="#335C2D" />
+      <stop offset="0.72" stop-color="#87BC42" />
+      <stop offset="1" stop-color="#EDF28B" />
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(72 75) scale(1.00) translate(-72 -72)">
+    <!-- Compact rosy-pink beret ribbon tail tucked neatly behind left bow -->
+    <path fill="url(#sk-hat-shade)" stroke="#9A264E" stroke-width="1.8" stroke-linejoin="round"
+      d="M21 76 C15 92 14 109 19 124 C27 117 34 104 37 87 Z" />
+
+    <!-- Iconic tilted Cardcaptor Sakura rosy-pink beret hat + sculpted puffy bow on left -->
+    <path fill="url(#sk-hat-main)" stroke="#A32852" stroke-width="2.0" stroke-linejoin="round"
+      d="M28 36 C36 16 58 3 84 3 C108 3 125 14 129 31 C120 55 88 86 54 102 C35 107 22 93 18 76 C9 72 3 61 3 49 C3 37 14 32 28 36 Z" />
+    <!-- Upper-right plum-rose hat trim accent -->
+    <path fill="url(#sk-hat-plum)" d="M86 5 C106 6 121 15 126 28 C119 31 112 26 104 19 C97 13 90 9 86 5 Z" />
+    <!-- Sculpted left bow crease & soft sheen -->
+    <path fill="url(#sk-hat-shade)" opacity="0.74" d="M27 38 C24 55 27 70 34 83 C23 85 13 79 9 68 C17 65 23 53 27 38 Z" />
+    <path d="M9 48 C16 51 22 57 24 66" fill="none" stroke="#9B1F4A" stroke-width="2.0" stroke-linecap="round" opacity="0.65" />
+    <path d="M42 17 C58 10 80 10 96 15" fill="none" stroke="#FFC4D6" stroke-width="3.6" stroke-linecap="round" opacity="0.68" />
+
+    <!-- Back auburn-plum hair volume framing lower jaw cleanly -->
+    <path fill="url(#sk-hair-back)" stroke="#682E26" stroke-width="1.8" stroke-linejoin="round"
+      d="M40 72 C32 96 36 120 52 130 C66 136 96 135 112 128 C128 119 135 96 129 70 Z" />
+
+    <!-- Sakura anime head (tilted gently -8 deg for lively charm) -->
+    <g transform="rotate(-8 80 86)">
+      <!-- Graceful anime face contour with soft cheeks & delicate chin -->
+      <path fill="url(#sk-skin)" stroke="#B0725E" stroke-width="1.8" stroke-linejoin="round"
+        d="M41 78 C41 47 119 47 119 78 C119 108 104 132 80 135 C56 132 41 108 41 78 Z" />
+
+      <!-- Soft radial peach-pink cheek blushes -->
+      <ellipse cx="55" cy="105" rx="12" ry="6.5" fill="url(#sk-blush-l)" />
+      <ellipse cx="105" cy="104" rx="11.5" ry="6.2" fill="url(#sk-blush-r)" />
+
+      <!-- Left expressive emerald-lime anime eye -->
+      <g transform="translate(61 91)">
+        <ellipse cx="0" cy="0.8" rx="10.4" ry="11.8" fill="#FFFFFF" />
+        <ellipse cx="0.6" cy="1.2" rx="8.6" ry="10.4" fill="url(#sk-iris)" />
+        <ellipse cx="0.8" cy="0.4" rx="4.2" ry="5.1" fill="#182214" />
+        <circle cx="-3.0" cy="-4.0" r="3.4" fill="#FFFFFF" />
+        <circle cx="3.5" cy="5.0" r="1.6" fill="#FAFFD0" />
+        <path d="M-11.8 -2.2 C-8.6 -11.4 5.0 -12.0 10.2 -4.2" fill="none" stroke="#3B211A" stroke-width="4.2" stroke-linecap="round" />
+        <path d="M-11.4 -1.8 L-14.2 -4.2" fill="none" stroke="#3B211A" stroke-width="2.4" stroke-linecap="round" />
+        <path d="M-7.2 -13.4 C-2.4 -15.8 4.0 -15.8 7.8 -13.0" fill="none" stroke="#A66552" stroke-width="1.4" stroke-linecap="round" opacity="0.72" />
+      </g>
+
+      <!-- Right expressive emerald-lime anime eye -->
+      <g transform="translate(99 91)">
+        <ellipse cx="0" cy="0.8" rx="10.0" ry="11.5" fill="#FFFFFF" />
+        <ellipse cx="-0.6" cy="1.2" rx="8.2" ry="10.1" fill="url(#sk-iris)" />
+        <ellipse cx="-0.8" cy="0.4" rx="4.0" ry="4.9" fill="#182214" />
+        <circle cx="-3.2" cy="-3.8" r="3.2" fill="#FFFFFF" />
+        <circle cx="3.0" cy="4.9" r="1.5" fill="#FAFFD0" />
+        <path d="M11.2 -2.2 C8.2 -11.4 -4.8 -12.0 -9.6 -4.2" fill="none" stroke="#3B211A" stroke-width="4.2" stroke-linecap="round" />
+        <path d="M10.8 -1.8 L13.6 -4.2" fill="none" stroke="#3B211A" stroke-width="2.4" stroke-linecap="round" />
+        <path d="M-7.2 -13.0 C-3.2 -15.8 3.0 -15.8 7.2 -13.4" fill="none" stroke="#A66552" stroke-width="1.4" stroke-linecap="round" opacity="0.72" />
+      </g>
+
+      <!-- Delicate nose hint & cheerful open Sakura smile -->
+      <circle cx="80.5" cy="101" r="1.2" fill="#C98A78" opacity="0.72" />
+      <path fill="#E36D6A" stroke="#9C4346" stroke-width="1.4" stroke-linejoin="round"
+        d="M72 112.5 C77 111.3 83.5 111.3 88 112.8 C87.2 122 82.8 126 80 126 C77.2 126 72.8 121.8 72 112.5 Z" />
+      <path fill="#FF9FA4" d="M75.2 120.5 Q80 117.2 84.8 120.5 C83.2 123.8 76.8 123.8 75.2 120.5 Z" />
+
+      <!-- Iconic honey-caramel Sakura bob hair with soft wispy bangs & bouncy side flicks -->
+      <path fill="url(#sk-hair-main)" stroke="#7F3C29" stroke-width="2.0" stroke-linejoin="round"
+        d="M80 22 C110 22 131 43 133 76 C134 96 128 116 113 127 C118 111 119 91 114 70 C109 80 105 84 102 82 C103 71 101 62 97 56 C94 68 89 77 83 80 C83 69 81 60 77 55 C74 68 68 79 60 83 C60 72 58 64 54 60 C49 72 46 85 45 98 C44 110 46 120 51 129 C37 119 32 97 34 75 C37 43 54 22 80 22 Z" />
+
+      <!-- Soft wispy center-forehead bang strands -->
+      <path fill="url(#sk-hair-main)" d="M71 46 C74 59 73 73 66 85 C65 73 65 59 71 46 Z" />
+      <path fill="url(#sk-hair-main)" d="M89 45 C94 58 95 70 91 81 C87 70 86 58 89 45 Z" />
+
+      <!-- Iconic Sakura playful outward hair flicks on left & right sides -->
+      <path fill="url(#sk-hair-main)" stroke="#7F3C29" stroke-width="1.8" stroke-linejoin="round"
+        d="M35 88 C26 98 24 112 31 121 C34 114 38 106 42 100 Z" />
+      <path fill="url(#sk-hair-main)" stroke="#7F3C29" stroke-width="1.8" stroke-linejoin="round"
+        d="M130 85 C139 95 141 108 134 118 C131 111 127 104 123 98 Z" />
+
+      <!-- Silky anime crown hair highlight & delicate brow hints -->
+      <path d="M46 49 C60 36 98 36 114 49" fill="none" stroke="url(#sk-hair-shine)" stroke-width="6.4" stroke-linecap="round" />
+      <path d="M52 72 Q61 68 69 72 M91 72 Q99 68 108 72" fill="none" stroke="#8C4732" stroke-width="1.8" stroke-linecap="round" opacity="0.65" />
+    </g>
+  </g>
+</svg>

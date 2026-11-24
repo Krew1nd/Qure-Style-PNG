@@ -1,17 +1,17 @@
 {
   "upstream": "aaANDkk/Qure_Style_SVG",
-  "upstream_commit": "1d9f1919088f5dff3d00e70111328d3cfc1dbb17",
+  "upstream_commit": "f9b383683ae9594534e6f3bb7c7352aa5fcff651",
   "renderer": "resvg-2.6.2-256-v1",
   "size": 256,
-  "count": 2370,
+  "count": 2383,
   "categories": {
-    "common": 2100,
+    "common": 2113,
     "flag": 270
   },
   "icons": {
     "common/1YunTi.svg": {
-      "svg_sha256": "c91c249cd23b8e298445308770651a467635d8bf8565adaa29a60bf6c8522ffa",
-      "png_sha256": "b5f72d7fcd53581b17a8768477a0d0d74d469a0014cc7a41393db8534a69e47f"
+      "svg_sha256": "2c5a69ddf5cf7fbad7d74ad0f75983376801dcb678893e86cd0dd9c2aba23d5f",
+      "png_sha256": "18ed3e48680f26036ec1eb71595426448ee4ce775ff74146033c06b26575c957"
     },
     "common/36Kr.svg": {
       "svg_sha256": "0b9a5158bd4b515cd305b37fd6f781debe83d1b73cab335aac6b9768bea99033",
@@ -338,8 +338,8 @@
       "png_sha256": "f19634b50d6dfb17731e21e24503ce667d722aca59bd2b57f78aa3af0cfc427e"
     },
     "common/Amap.svg": {
-      "svg_sha256": "65736a48a876b217060b9c0cf05ab3cf9caf9cc2c0f9c2dd1cb69b1c11d84cf5",
-      "png_sha256": "5a5f6a89a67de0c581c84c5c7a2cc37e2b960d401cc6a03f7e6981b8237f810d"
+      "svg_sha256": "e27f90b57a118da7cd8a6edba5c479d25762021507234990c725a31a629bea0d",
+      "png_sha256": "d8324f79e32269e7f508319a28b6fee1749184b3e8975943ac5a562d18e462be"
     },
     "common/Amazon.svg": {
       "svg_sha256": "ca6bfe6bb1c45ece10a0da7b767dcc67eee389ddbf8d2dc5d35512585ad63b33",
@@ -358,8 +358,8 @@
       "png_sha256": "ba7216fabc391f8cf8e7754e2afa347a493b0dbb67126ff60b35d531badccee6"
     },
     "common/AmyTelecom.svg": {
-      "svg_sha256": "fa043a10f1324dd9ed69769a7ba75854bdef46b1269d896aeb66be03c50cde64",
-      "png_sha256": "cc0d4621ea7a6e7af704b167df318df944e9c612e361c67b0d6c47538d579c8e"
+      "svg_sha256": "162d495e56747498f9afe45d97613128adafe3d6229bc1f69a7ab824ed2e40d6",
+      "png_sha256": "44ee257d94b58e7a27be41360d1df2167bae8d27f232d7b712641d0fa7637fee"
     },
     "common/Anaconda.svg": {
       "svg_sha256": "a961c65d5652a12951c1388a048be6bf8fad1f10ae415db4e13d126eb6db5c16",
@@ -454,8 +454,8 @@
       "png_sha256": "cd0d5b17cfcf1cc4665c1fdc7d8a930ddc76adc1859fa3be9f76dce0c7a24460"
     },
     "common/ApacheCloudStack.svg": {
-      "svg_sha256": "7111153f8478ed3da8f9b51f7ac80dd4dd01a01270535399558e395f0f9b4e9e",
-      "png_sha256": "63445d4d7c69529bc1edfb70f28149ddb921638529355dc692695c8e6989cb2f"
+      "svg_sha256": "928149476f1f44f5bac100746d3b4a090bdda17caea2b92113fa1b3c4d9b29b0",
+      "png_sha256": "d6481b0ac502a5bb09bf4d68e36deb7f51839d4b2c53ce19c1a4780853d51e13"
     },
     "common/ApacheCouchDB.svg": {
       "svg_sha256": "c28ad8499cbfc752713b4d15ed8e50aef5aa26374f439948e80c29c43fee8875",
@@ -710,12 +710,12 @@
       "png_sha256": "f0089142150f9f1c154deefdcbc51e57abe160bc9105fdac0f63e9f1a779a8d0"
     },
     "common/AudioTechnica.svg": {
-      "svg_sha256": "5ebca9a3e87f884af5e0890b68bd36e1bed3aed64cfc06c47d8b0532d669d473",
-      "png_sha256": "c0f9c08cdd0614f74e456f3c14519340e41531a9ce764970608539529db906e4"
+      "svg_sha256": "28957722c24f29a3980551bbe8e63d2b9210ebc28d9a6e14912de56271914ab3",
+      "png_sha256": "1b436780f84a713d5759ef2c412f862be69bffee06ad482012056f4b6dceafef"
     },
     "common/Audiobookshelf.svg": {
-      "svg_sha256": "8c727aefd733ef46c77c9a8343a6956a2f51fc228952a9f4d728fa2bfb18c379",
-      "png_sha256": "a32183deed35f32a43e020ae1144a2081e14f2d4e9379aaf3298b5c68f104022"
+      "svg_sha256": "0b7534942343abea126307bf6bca50da434811d857338c290c5e70872796de9c",
+      "png_sha256": "f0c84f025887e4e5bf4d0d6dca8a0cc0d7acdad814e105605cec2d6233c27612"
     },
     "common/Audioboom.svg": {
       "svg_sha256": "4767fabce4ff072d4bb3cf15d710e7ff1346d697411bab1f57b973f3a18a2844",
@@ -774,8 +774,8 @@
       "png_sha256": "a9b7e17edd1fc010ff687a8ea6a2245ce7dc1cabc386b38ebd215a233ad23298"
     },
     "common/Avatr.svg": {
-      "svg_sha256": "6ae75ca2f7f3f2d054059dfe1711087316e11a2beddceac870c03e651154751f",
-      "png_sha256": "2bfefbbff87ce34a3644916ceb0626b6f007f0f86acf35213fc0865540bfa333"
+      "svg_sha256": "865808e97ee83053583afa0977b7779e8f3ed2f2b8cd39042f54244d0cf7dd3f",
+      "png_sha256": "234e080e64cb9dcb07aef9f2ab0fc2987d6690a20fe57de4f332a856c7415eeb"
     },
     "common/Aws.svg": {
       "svg_sha256": "3d7c711f512a743e901e565bfd1f9800e363cc2bb1716bbdc56cdece7d828957",
@@ -866,8 +866,8 @@
       "png_sha256": "eb37b1132f739ff7f7aecafe9d2fe786e7ad9b42a494748330c4ed9afa4b510f"
     },
     "common/BaiBianXiaoYing.svg": {
-      "svg_sha256": "a852db580c7cbf951265ff631bd347cb46fb74a3be59e254c002d8efcaf52da4",
-      "png_sha256": "a80175e9a1de2941cc9e8b7152c088381dbd3cadf8b3328146ed6276ccdffd09"
+      "svg_sha256": "2f95059ed850c7b6710b2c01c524942aeabbf22e845dca084e42c544a258a061",
+      "png_sha256": "7ca16342a46dcbe92bc63e46cf155b5f08576e05194da6f387d9d88362de1def"
     },
     "common/BaiYueGuangJiChang.svg": {
       "svg_sha256": "bc742891e70a78a8ddfeb2a94cfb312c091c0af1a5b2eb1e161fa4d22d59cd86",
@@ -946,8 +946,8 @@
       "png_sha256": "e2864c1164f7432db0d10a2aeaa8dbf8515270f129e5192d90e10c75f4ada7f5"
     },
     "common/Bedrock.svg": {
-      "svg_sha256": "a474575edd2307a005215a5adab472c276d2d627e3e9af1801643f7522de9295",
-      "png_sha256": "e8b7b42ef35346c30f82dc501c0c8da367f77573122fdb50a3db5afaf12e88f4"
+      "svg_sha256": "fe2e80a16533bda66ee5a54ad1f88bcad85b07c68d9543a5319788af361529cd",
+      "png_sha256": "66c621e8ebf194b88ba27a4b3ee105adaba31a8f84fb20b2621eb4a7fc83358e"
     },
     "common/BeekeeperStudio.svg": {
       "svg_sha256": "6c85d5abcb74ef4d117a315a3edd00fa8003d7d42c98ba0ea652a28ee5a85af7",
@@ -982,8 +982,8 @@
       "png_sha256": "277295ca48af1dddf5bd947852ec74273fa1657801cde09ceba30c5c98dafcec"
     },
     "common/BianYuanJieDian.svg": {
-      "svg_sha256": "d585bcb8e8d1b7ab9b8ee5dca55e0c5197035e81d2f82e47163c18cf78229f02",
-      "png_sha256": "748b8673c32c8d64c3da403b911b85365d8eca4be46bcba813c3fb57addd197d"
+      "svg_sha256": "c139f2fd9de9942523405d71c98e04222b843d0af7b10b7d9ec6d23edf3f4685",
+      "png_sha256": "b33a9d7120429ce445e285227292fa7692c770cd60ce0f20b5d3968781ec8b19"
     },
     "common/BiaoGeYun.svg": {
       "svg_sha256": "5585cb49ed3f8f27de403a0b3c06abbca1b40db6965c059f4b3f631ed01e155a",
@@ -1182,8 +1182,8 @@
       "png_sha256": "6f412d30fac4eb28e3ac170cb72cb8dd0c06b27f1eb3b17b46f3ef45e8f07666"
     },
     "common/BridgeTheWise.svg": {
-      "svg_sha256": "6f069a77f85250fec8eaf901215fcd0161d85a64bd1d3ddbac07dc9fd0e39028",
-      "png_sha256": "bf6da50d02fd77f7dd1b84fa3cabf3a912136524f20eab6b5e9ef80b0626e3bf"
+      "svg_sha256": "02e5e2d58f0a6c74a90524b40f2714693065067ff0ad5fe60cefdb198d5de9b6",
+      "png_sha256": "f60dbfc2c0db67ebee6975e824752e73826fa46837a57d9e4e337d9f307f0761"
     },
     "common/Broadcom.svg": {
       "svg_sha256": "f1ef1ff13cc45101a468b896ef7561e8f51e5fca0e3be2643058954d50e13f4c",
@@ -1202,8 +1202,8 @@
       "png_sha256": "5c8d1ef17e2efdfb4110d482aa71db8617ffd26c47f8985c4b367221640efa15"
     },
     "common/Bruno.svg": {
-      "svg_sha256": "4f544966cbcec3efd8a1162ede5bf800b5b0aec71567045d2f62bf1f28ac5ef7",
-      "png_sha256": "2609218a555e1dcbb47aa0283dddfcb4fdfd909ec95d25d94672c480efe64352"
+      "svg_sha256": "698d278d58ede0e207882e75db185ec2ec36da7862220ae64417c219b33dd446",
+      "png_sha256": "f44fe8d86e813acd162bc30bbad921d77eb1deb249c3041400f7431c59df4b2f"
     },
     "common/Buildkite.svg": {
       "svg_sha256": "38a6bda943d702892fa82cf48d5c9380d60fa865164090116fe6b46847653f42",
@@ -1250,12 +1250,12 @@
       "png_sha256": "851fb67dc2a00fc65908a57571ea1711f74924424508f17b0311ff36872b4a94"
     },
     "common/ByteDog.svg": {
-      "svg_sha256": "5906ce0a4a370e4bbab21dd3e8df9f4cbe6ec65ac48b49f79079c94967648d29",
-      "png_sha256": "f26c2d4d692b4e47d753da172085a99600210d8db3e1d7dee089d82b68f74bac"
+      "svg_sha256": "7026194fc776f4a2dbf30a51e88544596af12fc35f50d0ec943da4a7110e038d",
+      "png_sha256": "8846ad0fb7b4e82a08886195996948fd50a6a436ec53a2519a270a7aa11b3b42"
     },
     "common/ByteVirt.svg": {
-      "svg_sha256": "8510b32d946a7ee0e1804e7a838bc6ccd7b9a9d373aab8be52d12147dfe1a235",
-      "png_sha256": "00d58891b533d256628373282f3f79e6c5db72b24bd2fb8b09345316b9e3e658"
+      "svg_sha256": "a5710e5f3ad25ceac4f770ab11ef09e2630a786ab02903f1d7ece6f13e8114a8",
+      "png_sha256": "62cf1467b46d6548e1ba6a0b6c3052593a6d470dd20e73e733f150adf5acafe5"
     },
     "common/CA.svg": {
       "svg_sha256": "43c9674632a8c8e0668eb181cea0d462b5e3846f5be3e22ebfccd0de0aa356f6",
@@ -1274,8 +1274,8 @@
       "png_sha256": "e717d940a9efd2f69f183d26e78ee11c0ab184ab9f60596b20c551eed77c5371"
     },
     "common/CCC.svg": {
-      "svg_sha256": "b985bf5b1a6906aeef592c0c1796c857b797d9399669785a51f77c9e63abdafb",
-      "png_sha256": "1b76632012d3b33b378def04887e3e0284cd8e4e648d100271b7a248b599b17c"
+      "svg_sha256": "44537cd153269f26d8d268bf57b012f8c982d315c7101921329e55e3bd6698f6",
+      "png_sha256": "0c64c59322324a0514ffbaa655eb55355af5352b0307626f3530497bb167a296"
     },
     "common/CCTV.svg": {
       "svg_sha256": "4c9b6f6d7d715cd0303ff69a7cd78a8796d4e189e309622714e18369de27bd61",
@@ -1328,6 +1328,10 @@
     "common/CSDN.svg": {
       "svg_sha256": "19ef1ad61dbac275b8d3dd2f026b3806611249823ffd19b008f64008d8a37714",
       "png_sha256": "f471f6c6753dafb0b9d9725580b40658a043a06b59cca39e418f6337ef206e74"
+    },
+    "common/CTC.svg": {
+      "svg_sha256": "c12c7ec9b90a92017f9142f7f3280c4076f0fb21899b5561a857165c09579251",
+      "png_sha256": "18ed5a7ed02133e75f4edf3d060370786c6d4aa3c49f7dc962f346a7e7eae522"
     },
     "common/Caddy.svg": {
       "svg_sha256": "b34de8749a2e01af72f7ecd7af6c3066d982a781dc91c756a90f09f1153a74f1",
@@ -1406,8 +1410,8 @@
       "png_sha256": "126f495e735388561dac7171ee6ba49e235bd4041a41d5edbe8b416830f07b7a"
     },
     "common/CentOS.svg": {
-      "svg_sha256": "03293fed4f425bc08276e64de7b44c0172b74ce4270a9cfdab9c10142133fcaa",
-      "png_sha256": "d2beed1c3f543403a22bc57e6e68576f87138d8bb085f4d5f627a79c8665112b"
+      "svg_sha256": "22bb1bab7c0a1dd97d7d220b698b2e769323f18e903467737941e95acbbf4b43",
+      "png_sha256": "85c74f71ab45f21e969cb32497fb74900b6f1f5e27395a0baeb36f1a65e36883"
     },
     "common/Ceph.svg": {
       "svg_sha256": "37b7a3111f3e747c66611cf9f7b360205410143e7b076be6f568d2e0be0a0869",
@@ -1426,8 +1430,8 @@
       "png_sha256": "78b2fede157abea9609f3e8fe19bc53cc1fef16a657e46c0665a031a3ae0d27a"
     },
     "common/Chai.svg": {
-      "svg_sha256": "9b46ff39ece25583f3eb2c3bcb3cb53a190d1d42a1975b5b96c9b2a971c0b5e7",
-      "png_sha256": "5594d84b4314060db6ce6866f954dc02b6864780690b0ac8793e2e62d345d42e"
+      "svg_sha256": "a7378984cf2f9001a34b206208f37484d4dcbdaa791e7eb0c07ccb434b5df732",
+      "png_sha256": "890d012a9f7839b4337f45a0bca7b0e3de42dab822e2745b5b226e9468f19953"
     },
     "common/Chainguard.svg": {
       "svg_sha256": "916b933b10ab71ce4f35a49263b2f2b2c7f135d70ecd58dfa79be4709c1ab8a5",
@@ -1470,8 +1474,8 @@
       "png_sha256": "c43fafb5154d7c43de08c686abf3a57cc8c4fff620ff360b6e1eb7818f292341"
     },
     "common/CheckiO.svg": {
-      "svg_sha256": "e58741a00dd83a25c73d8b7114230d401657b8c1487f8380f57cbb6755bfc3e4",
-      "png_sha256": "845c7890ee9fdcf4437ee324dd52b68ae3d8389501be4a6c411d8757de6aaa12"
+      "svg_sha256": "ad5a13a2825566b915623cd6ef60f14b3b1bf6215ab735d1f8277e3f6ba1ef26",
+      "png_sha256": "0c7592c642e83ab66f3b79bcdbc94367a37fca5d2975bae97db19f98c46c2707"
     },
     "common/Checkmarx.svg": {
       "svg_sha256": "743ef53632480b24e98d7f9bd725fffe5cc90b2d6f0f911e0ad7052daf30695d",
@@ -1490,8 +1494,8 @@
       "png_sha256": "d4b7cd35499ec654dd2ef2333474a17a75f9182a6b27c5ffcb20523405b1dbe7"
     },
     "common/CherryVPN.svg": {
-      "svg_sha256": "696d0908f5498ee190d435b1b24c1caa82151d55899f04f3484c0c5bcfec0569",
-      "png_sha256": "f86dc025cb31f5b0165721353cea76edefdcd28004fe78bac968d78c86a2276e"
+      "svg_sha256": "a8088da8d3d3809a787eae8b11d099c151f0f93eac35e990521821c3af795d80",
+      "png_sha256": "d40a08d2ae73012fd2c1e65c69ada05ae56034faa738bf15dad9f84ec3ec167f"
     },
     "common/Chery.svg": {
       "svg_sha256": "7f13b31e753708d1029284c98b4fa0159886a343d46270de1fa29e0fdd8d5c5a",
@@ -1546,12 +1550,12 @@
       "png_sha256": "fd6c2196ee3f99172314251737e9f605514983dc4cabe5d99852a866ba0dd6ef"
     },
     "common/ChuMenJiaSu.svg": {
-      "svg_sha256": "220524cac5a3f36d47f9ad5883377d10d5ac754a84944f3b9f59e70bba7dbc0a",
-      "png_sha256": "2359d0120e64447dc5e44e06cab8c17a24dbe85768d8faf57f8cc9faac5635ea"
+      "svg_sha256": "7f90b736f078e7fcd3db3f457915ed8f30fd382825d8508e00c5b8b850752a3c",
+      "png_sha256": "5aefc006fe3cb2040fc703238483740fb15c57b1e80ee24c74cda2da8f5538b3"
     },
     "common/ChuiXueYun.svg": {
-      "svg_sha256": "2de57fcc457d9f4a023d42e455cea84c80b9ffd05e744dc42fa251e2c2ba3d26",
-      "png_sha256": "9d00c7ac50bcdb00200adc919d0f5a2f35276c5395f727822eacb126b87657b3"
+      "svg_sha256": "fac009e68eb5b1d8e057d52bf78a2aa32c594a8ce50b4ec2867e494ffd469566",
+      "png_sha256": "400a0627faf1f16ba534c1f870887fe614f0da565f3d24528d2088b4b0afbd8f"
     },
     "common/Chutes.svg": {
       "svg_sha256": "9c380cd32042ad23d19c022b557683768a339f8eb28e8b0d0826fdb727e1892f",
@@ -1594,8 +1598,8 @@
       "png_sha256": "aaa35d004dd0985c2cb2621a9a0ca09d544728553aa6debe09be082090a4c368"
     },
     "common/ClashxApp.svg": {
-      "svg_sha256": "fbb9d5c9d6157234dfab0e49f2e73de4ef289858290af23aef0c9382ea46a030",
-      "png_sha256": "a70b8de942f54f909f143149fa42a9d3a29fe8dc599fc662cee0b895fa126351"
+      "svg_sha256": "53175c07bc2909faaad0e5f2977493dcd131374c8f400412fbb83fc9d83f42df",
+      "png_sha256": "8d94ddaa2ab540c74f3e93bec7166408754f34e62f44a617cd6e17d4af012748"
     },
     "common/Claude.svg": {
       "svg_sha256": "6db116a5b3dab8bd7db6398a6e995eab12b1752f0691285af63114177cfbe38c",
@@ -1814,8 +1818,8 @@
       "png_sha256": "819d404f2720c6613e430d1e9b986505b3324ff824792a8c96a07f2d4062b8d6"
     },
     "common/ContactlessPayment.svg": {
-      "svg_sha256": "bdaccd8a761102de3a97e60c45388e02f957dc7b0b169d8fed997e959ed22d85",
-      "png_sha256": "bb02cb7726f00bc26dbcb60261f2cd2716f38da19e7301b10dd3f8fe7d3c6b3d"
+      "svg_sha256": "b86cb739407b3c4a8f8e9dbff8b55c6b61070bca10f1aa5b8aadae95ab589c7b",
+      "png_sha256": "f5b5f436e43211d74f68cbe3b31bb68f914cbdccabad39913195d16629c6e2ca"
     },
     "common/Containerd.svg": {
       "svg_sha256": "03d3086c332382babf26388c19cccf60b720d6d9d0335ff6f331d8451064dbc9",
@@ -1930,8 +1934,8 @@
       "png_sha256": "07790e3dcf25f4aa18587bec4bc7acd025e117cec7aeced5fc6deb1bf8ac9ced"
     },
     "common/Ctrip.svg": {
-      "svg_sha256": "84e1766679a6838be53a8c9154282cd82b1dd3e515ef071b8fdf0db624a7315f",
-      "png_sha256": "c7ee0a3b2e300372547149b8ab22bcaaba1793434b9c692fb24e2052f176e941"
+      "svg_sha256": "0256e76410e79f98cfb51b30306d2d6d510e72ffde5b3cd7881bf736d4f92670",
+      "png_sha256": "e873a88409cd6c62fd63d8ea9e9d06c1f568c9cc9f5da49ad3ef03bee7510f44"
     },
     "common/CubeCloud.svg": {
       "svg_sha256": "cd61df8c10445ac8d2404cee7af07e63b03300c32a860f38e5b41a96fe6ffeaa",
@@ -2078,8 +2082,8 @@
       "png_sha256": "7a4abd6365e06c203f1fa8b49a250883d24dad746046ea268245ec1a716ab64c"
     },
     "common/DeepInfra.svg": {
-      "svg_sha256": "1dd89a4fd3c59949d06e50f6b8c99981f3baabeb0ae1da9657516db6a2014563",
-      "png_sha256": "ca58551b1e50753f9d7d0b995ac26f96e7a2580b64606ee179ca177fb35d075a"
+      "svg_sha256": "6f44f4fee1c757939d06a912dd314e525b9e4db8f7c692e60d86694993be7c97",
+      "png_sha256": "9ac1042aa455a870411c20b388dccb12db71fc15a48ac44a21e166d4295488b1"
     },
     "common/DeepL.svg": {
       "svg_sha256": "6a2f57c686b5c644fbc64a38af95e38dfe91ef1693c8a69abd446501d67e636a",
@@ -2354,8 +2358,8 @@
       "png_sha256": "f5218c53e5be33e6ea8a18267441f7382be42c1b82a613869beb14dcddc526a0"
     },
     "common/DuoLaAMengVPN.svg": {
-      "svg_sha256": "41d51fe410a055f7289bd28f6819026048bdbc690d7d0b2f546fe7df99cdcdab",
-      "png_sha256": "de46b6f214340b1f6f213894f9ad2213fbc4028e4c6b117a24fdd491337c1a81"
+      "svg_sha256": "0f3bbdfb04795ddbd5aecfa08eaf71971988d5a9aa7aacf1e4b8aa753c3599a9",
+      "png_sha256": "1303e9186d1945481f95d0bca333035373187e0e644e8618ab4b11e2888eaf72"
     },
     "common/Duolingo.svg": {
       "svg_sha256": "b8c4549e1accc4dade0880830a93e2cebf5a77fe115c501aea6268394e632188",
@@ -2368,6 +2372,10 @@
     "common/EA.svg": {
       "svg_sha256": "0d5dfa6fc50c9000139eeabee053348998931740dd27dd71ac28de3eb00f7b8e",
       "png_sha256": "900f01ea231a84ed3d33ac959df06576b08a8916cacdb746f1fba1a22ad186d3"
+    },
+    "common/EFan.svg": {
+      "svg_sha256": "b604a0f7c2c1262e0e18ad2de334b9a52b31678088b843d6dbf28abc4338d445",
+      "png_sha256": "7ca412b5b288b285cab68a9351e7bc373510e0ec329704f5c13df29326ef236b"
     },
     "common/EG.svg": {
       "svg_sha256": "44966b99976d25d30ee67f168cd2aa2125ff823d5adb2fcdbcc4beea30932be8",
@@ -2430,8 +2438,8 @@
       "png_sha256": "3d9e009c8e606d290bf917bcd052c5eb65b0f304d6e8b535997af5367bf4e350"
     },
     "common/EchoNetwork.svg": {
-      "svg_sha256": "c82c1997f1f2131e823889e2eb56fd24990650245a672211b3b757a165fe3071",
-      "png_sha256": "d1cd185180c739e858767ff6d9a20535e45f406468821d42dc4c65b15364b327"
+      "svg_sha256": "068b3116e569b4947c03bb3947fa81a66e2d36787bfb611306b6ea8d11b16c4f",
+      "png_sha256": "767bf14d6755c240d5eac2427f59de7b6e8de1d8cf833c4c0380e23e0b866d8b"
     },
     "common/EclipseMosquitto.svg": {
       "svg_sha256": "51e22c203a12e0cc285088bb6c204781e7908119712eba1a4f371724dcc7dadc",
@@ -2474,8 +2482,8 @@
       "png_sha256": "6f6d97b34f7beda1234c17904467712a3477f938e15738ed03249d568f20c2ec"
     },
     "common/Electron.svg": {
-      "svg_sha256": "251bd2310a5d893201f740fdbda84b7b738a88caeb434dc5cb14732428363827",
-      "png_sha256": "9068b27b89dcc049c3979de433864d580098c9a01cbb50c678508faee1d85928"
+      "svg_sha256": "25356275eda97a2fa2cc1ca6cba20148fa4a26e01dd0a03a515dc5b9a2b55357",
+      "png_sha256": "e7301ce71b2982819b958d0436cf3e2bde07d6df9d64c791f2f46e2cf836f92b"
     },
     "common/ElectronBuilder.svg": {
       "svg_sha256": "ac252f6cc9e3fe12bee1247df67eb975347bf273b597f236d30698297a13ad61",
@@ -3094,8 +3102,8 @@
       "png_sha256": "bbdd22ad3df0f8d5b7dfbc4050c9aa61bf5e7cec4ec528fd6a73a6aca3f07a4d"
     },
     "common/Gemma.svg": {
-      "svg_sha256": "eba9005900ef29e7127b3f9b200864d4eafea34a1299464a0adcc5c640abab06",
-      "png_sha256": "0a7eca61b2b3964cc6b07fde89e3c6995e390aabde5a619d257bf05efe1debcf"
+      "svg_sha256": "da047e8f6301f61ef44a017cc83e926b639e1c1de8f79d44938cf7825754729b",
+      "png_sha256": "3e200370300065d0bc917ada6f78328816a79c9e223c08719809958427f4e41b"
     },
     "common/Gentoo.svg": {
       "svg_sha256": "a9df444fa29ec231c45b37db358d0d7c17dc850c42bb5aaa89877e8667b1b54f",
@@ -3226,8 +3234,8 @@
       "png_sha256": "c0da8f4a8fba51e9be9a6467955181f61f56117fd173976c3b8c7c7bb9dbc86e"
     },
     "common/Google.svg": {
-      "svg_sha256": "30ed006f98f81885999da586eb221f2f0ffc029ecba136e209a8898b9dd51d37",
-      "png_sha256": "21816d459e1cd9d48ed8476ec31047f63ec0e203b0eea82a5c32ef1f81d07c01"
+      "svg_sha256": "c5ef4d6fbb20efe6b6bbe0a4308e8875836b7041c45b0d25e54aee19d7653754",
+      "png_sha256": "c0392fd391bcc24feb2d42d4a461e1730ef1773a3b20a06d4934443df5755d71"
     },
     "common/GoogleAuthenticator.svg": {
       "svg_sha256": "796217b57672c787814100137d542cc429e7a2d36d62cc0fa7931c75a27cce2a",
@@ -3634,8 +3642,8 @@
       "png_sha256": "241bd726c65e9cab1756f2fb7cc9adcc8ab01cea9176b900febeb9ba27e879ea"
     },
     "common/HuanYuYun.svg": {
-      "svg_sha256": "5cde71963a0d58a877fd3e609e2a265c6cbbcd4b3cb8f0b7b4ecb2d7e550fa9f",
-      "png_sha256": "43dc4498cee5d869870b717eca80c0403ae8e0cd972f0352b5965a8b922e01b0"
+      "svg_sha256": "d1554e162fba50d440b9bd8bbadbe5d6462d3c0f00a6e9a895b23b231cd36314",
+      "png_sha256": "c84e997085e17e7a0355a6a0d6d405686c18866b181e2e8dece978938d194eba"
     },
     "common/Huawei.svg": {
       "svg_sha256": "8ae0c9e12ef70eb4338a8edd767aee60a15384dc53ae8f3618a12605391e0660",
@@ -3770,12 +3778,12 @@
       "png_sha256": "662371801dc07540cd93f43ab15159661b9ab8cacc5fdac3a52eb24582a2326f"
     },
     "common/Ikuuu(1).svg": {
-      "svg_sha256": "326497c4c1fc02dc211734f30443685d26a6c465a80223b15e3ef50a62bfb81b",
-      "png_sha256": "26ef0af0aa501301fdb3715eb0878222cf28bf2388a8fdfa9894176779feedb9"
+      "svg_sha256": "7a3f29185143c0710f453b199b261535bc1c48aaae8a563ac313bb76d92457b3",
+      "png_sha256": "52e8a83271f7c28bccd2ac545953a669554fde551ad386f81d683b3bc8236f6e"
     },
     "common/Ikuuu.svg": {
-      "svg_sha256": "557f0fb5fc08687fd407d2fe895945c51e81ccf51abe121707fe0c941f0cb25b",
-      "png_sha256": "d755805c417b0d0b67018f2c7bc8340c6d17fff865b06d15d5767112a1ef4f33"
+      "svg_sha256": "62000f486ed1a931137475ac08f3793f5075b5fdd15e57ed68c547738dc0fc98",
+      "png_sha256": "ae51dfc5795ce82b1d6a5c0a41da0656c6c2d08d9f6189e89a7ace8dfb088241"
     },
     "common/Imgur.svg": {
       "svg_sha256": "3fcd4547e3c792042ce887857317467e94ca13881efb6fe7933b4cd5b5ddc0e8",
@@ -3958,8 +3966,8 @@
       "png_sha256": "9ab5d8d82e8c2c408013fc12fed2c9b5b9cd982498399307df6bfb24fd628313"
     },
     "common/JiaoJuZhe.svg": {
-      "svg_sha256": "ffe7d8bc3f9fbe295f487cfa3a4fb297ddf1162631a076be5b1c6c4f51cddebc",
-      "png_sha256": "402685de281ee17e07ad8bdcd72fd5a1e80d4fbc68c8b2304093e707d8739f6f"
+      "svg_sha256": "5d0ccf79955fc92eae45359c9da2b4382336f6de340e972535e344c643f13adf",
+      "png_sha256": "d8eccbc2f8dcd4ad0cb0f88e4ce94fde1784207b9281bee3a185beab7dceb89a"
     },
     "common/JiasuLa.svg": {
       "svg_sha256": "80c687c1939c4ef8876cdb6b76380fc4fc4aeb19d041eb71cfbe7e539e371991",
@@ -3974,8 +3982,8 @@
       "png_sha256": "7d687a917134004751f0c7798203180612084de9f3d58325c990dbeb165854c9"
     },
     "common/Jitsi.svg": {
-      "svg_sha256": "33acba38bf64ee52fc372f8306f5fc344b445dd5f043a9014891508cdb911ce7",
-      "png_sha256": "d46c82ed666123b89f68770eb278ca2654161d182a349aff25e262e5fd469e67"
+      "svg_sha256": "6d4ae3e9232afa0a64c35fd2255ee17525a0d52ffeb7b1ae813d41dd1881ae09",
+      "png_sha256": "c7c54ca7a5bd61563afa1824dc7a72283daf0257281a28a5ba96a476427ba26c"
     },
     "common/Job51.svg": {
       "svg_sha256": "6ac17e5efc50207674aee08ffcb752cebb9d969eb556208953cdfe3291279dd9",
@@ -4034,8 +4042,8 @@
       "png_sha256": "f58f4c7b8d9c26653fd1011e1a378f353ab703cdfb53fcd573bf7530b7cd591b"
     },
     "common/KTMCloud.svg": {
-      "svg_sha256": "8c02d87caebc4d90d33a555bb3b3240f7bcd4c3b6e275a91927fb48cda0ff12c",
-      "png_sha256": "39d4def04d7c7385b74f9a80abd487b8e4af8002ad29219322fc1036b06d06b5"
+      "svg_sha256": "19fff7f3dc7c317d322e32fa8bd4abd1e811974b616ce1f70c5c24c039432c57",
+      "png_sha256": "10cee4fdd95c725846a4c007760b0920d5cf8347fc895ef24878e10a6e21b6cf"
     },
     "common/Kaggle.svg": {
       "svg_sha256": "5623b3aed28ce25aa5ee2bf48cdaea2d70f36ae6cf335342efda6bba79a326de",
@@ -4050,8 +4058,8 @@
       "png_sha256": "477c461f2e6fdce54515ce4cf00e67c4d0eac02478069aa1ba502f3a2bd23802"
     },
     "common/KaliLinux.svg": {
-      "svg_sha256": "9f1f6b849bdd7a57d5db93448f5276b16c2cec06580cbee4e9202515457b7d0f",
-      "png_sha256": "6542f244f546abf5ed44f96b112d94e314e5c37cbb691b6d8e1444f1fe5db36d"
+      "svg_sha256": "ed1f6d000820469222004a7032d58099b3cec68672df662b1072811eb84e3c15",
+      "png_sha256": "7ddbe98f5c137484033d5c1a8dc4602a5fe4032edac7e99957c9bcd75c9fbfcc"
     },
     "common/Karing.svg": {
       "svg_sha256": "473676d329270707f3e2592a1cc05dfc53c11a13bb062f65707422763e242d7f",
@@ -4070,8 +4078,8 @@
       "png_sha256": "c25097263ec73f1ba4761cbfd2cc9725e3e6daea2e74c056c1515cf1721bcd4d"
     },
     "common/KenDeJi.svg": {
-      "svg_sha256": "1d8d08a7b7e800178483835599443bf1be25d6eb45213590df0b1f415c63f34c",
-      "png_sha256": "df6996134913d9344fc9ebf0758310f10ee642f4cac8504ac93815f83daf79b1"
+      "svg_sha256": "aeb67e6a411d89f830590621134b9ef46ac6deb6aa2c670969038cb41ec93b36",
+      "png_sha256": "159854546e5942f149c08fcbdb4e0682c879e54d0a2a6f966f2e9091bd752e78"
     },
     "common/Keras.svg": {
       "svg_sha256": "34431845c04946b600b47d9de800eded85114c282bc03c00ff9498021dff6f57",
@@ -4128,6 +4136,10 @@
     "common/Kiro.svg": {
       "svg_sha256": "4c266c5d0e12dfb6ec47538bf166d54b671e5371ac33cbbb1c4792356b3c98b4",
       "png_sha256": "106f26000016482fca2960fe05cfd3bc34a6f408534f56a1b68f96a6dbc4691c"
+    },
+    "common/KittyNetwork.svg": {
+      "svg_sha256": "8d375eb1613db57605e0ef576df7ed5863dab4c7c6e6a0c5f647778e05b85d51",
+      "png_sha256": "733ab55fdc24b7f5475e9d94b733da906e9eb08e38df5e69763178b7b174ac02"
     },
     "common/Klarna.svg": {
       "svg_sha256": "1580424cfb6bd368d808ab76ff8f6876984cfe74b98cda99447c19c5ffad46bf",
@@ -4222,8 +4234,8 @@
       "png_sha256": "fb38ff9ccda621b4fd7e3eaa169a32dc5239e19f7fa67aaf47365a3679ea4a44"
     },
     "common/Kuromis.svg": {
-      "svg_sha256": "43d3975d3cbdd38637e04f2e0a02d5b61b6c7bf81afa9380bfa23fabfcc42179",
-      "png_sha256": "c8b01b9b3d01036c34b5f484053cde371fd394d33fdfa0288e8a57df37307079"
+      "svg_sha256": "fa799d19cf2952b5a5372785232396268f413c3c29a427bf2e31f18521606d7e",
+      "png_sha256": "c681a35524fa1830ccc2e3bb209702d37176081c47130e80160f24f34af9c32b"
     },
     "common/KwaiKAT.svg": {
       "svg_sha256": "01832bc2d5d259a8eec91cec8fb537d2ce592ea90282dfb53d2d1282ec1d0e14",
@@ -4326,8 +4338,8 @@
       "png_sha256": "cc6e26e8cde43b03b7e03d46729b70604b518b573418842a03cd1dc4a8136c05"
     },
     "common/Lemmy.svg": {
-      "svg_sha256": "8e22bb40c3c00ef404984c9856aded3a90dab33bdd29403726c3dd5735f5d9a0",
-      "png_sha256": "3f8d5bf4d549cc269d41b752a4536b1010e8e30403f570ed3cb273a21b9c4940"
+      "svg_sha256": "c9af44b2cda5b7d5c34d40b6045c55dd77f2c84260889fba0d5a5d8e1915e0a1",
+      "png_sha256": "1ed9830d70902238cde795c90f07adaebaa770966d9544d95fb8ac9be4eec89c"
     },
     "common/Lenovo.svg": {
       "svg_sha256": "bcac976f20d5295d45d1b37df3233b7745b1f5140c9c39aee9f14fc1a0d80431",
@@ -4358,8 +4370,8 @@
       "png_sha256": "0e9fc2bb44c3fd385f458b6f1529a28a56d79389e4b85784e06bd4b926949f07"
     },
     "common/LiangXinYun.svg": {
-      "svg_sha256": "2d5c94af042e443652639057277a9ef49b6dced6d99a8dfa44c0090b4ebc591f",
-      "png_sha256": "5e27a11aa89e6dd45bfd6df07e89a7511c76cfd91e17853bf1d952058977562c"
+      "svg_sha256": "abecd492c5525949f6994816ae2ce91bc233760651e4bd79d668676bac2eff0c",
+      "png_sha256": "48042a77997b911a51fb476f13841279eb2ced650835dabd1fcd59b1b7e36a47"
     },
     "common/Liberapay.svg": {
       "svg_sha256": "7c952146cf15fb867c136876e2e48056c13451519220761b778a50dd2fb2a382",
@@ -4376,6 +4388,10 @@
     "common/Lightricks.svg": {
       "svg_sha256": "36c894a58d7cbb8822ad1118f86de077b6365bb5e91aab54fd2560bb3fc7f532",
       "png_sha256": "b0116cf58549d6118548915c8ff3f1fd342ec81dff14314faa7439a008c518f9"
+    },
+    "common/LinYun.svg": {
+      "svg_sha256": "da4f19dbe64bebae53a1e8e33e69674d82b153633208d4f47a905c3b00a07ac2",
+      "png_sha256": "3674825231fe27da30dcd102cb56611d4b509c227cbb9f0da9788239d0de5950"
     },
     "common/Line.svg": {
       "svg_sha256": "3784a0b146fe4e29b3f80ea7e681646c73ca182e32e9fbb2c02fa6f8fb1e2295",
@@ -4398,8 +4414,8 @@
       "png_sha256": "08b05d68ae32378874e4384ede69c01a465b2ebd68aa2920ab7b3e63d2a6921c"
     },
     "common/LinkCube.svg": {
-      "svg_sha256": "c2ef7ffa0ad251aea03120d1c1cc0729776e296f8cfef4a43205a1504a443a74",
-      "png_sha256": "83cff4e8209ef955ac027c3c600b110a752dd9820b7af6c92dfdc05d27b57e7f"
+      "svg_sha256": "477926b63b0642ce8673255b18a3771ebe15418b09cf64f61540b583766cfe25",
+      "png_sha256": "a38bd22ea5ee6d33bdd3489789002162d7a54dfc4beeb5cb42844921bbbfe56e"
     },
     "common/Linkedin.svg": {
       "svg_sha256": "edd873b05d898d7cde3a86feae5320849ebbb0bcfe5c27e3fe82914fa05cb8d2",
@@ -4530,8 +4546,8 @@
       "png_sha256": "d66feeb5115e6ad75b7ae54a9fcab0fae519b434500ae3bc3d13047cc9bdf88f"
     },
     "common/M5Stack.svg": {
-      "svg_sha256": "71e541579f272b0507ae2937a8dce6f445ab3d7856a6c24e6985b9743f1fff2d",
-      "png_sha256": "be51a612d6618258fe75a24d21e7ed98fe3eead4800469aed33062e9ddc025b2"
+      "svg_sha256": "3b37e10de2d43214b43290cc0e3b3c9f1f01d119986c1b66eb8158cc4996c781",
+      "png_sha256": "28c9d5852a6fed8d19c5974c55f6d042f5b0f7b1c0ff6daa585d69a0624d5f95"
     },
     "common/MCP.svg": {
       "svg_sha256": "d4e132ee4b08bd0dec3814a83ba570d5f6dfe1d3338c6d2adacf3aabb95dc768",
@@ -4766,8 +4782,8 @@
       "png_sha256": "40a3b0d2cf9029aa9485b7489a6c34c2da5d972f8634b0efcb709ec9ede961f8"
     },
     "common/Midjourney.svg": {
-      "svg_sha256": "fa4f7b162d62e2ad807a11e500e27f0ebfa34e968884ccaa1bddb4f8f487991e",
-      "png_sha256": "abf9a74a12f4f88512ad53e5ed0d69a2ba47e0f15617949cacd5fadd6780cae5"
+      "svg_sha256": "a4739bbdd255d61093f6af66eaebbc716f22d10a4563aa22c52a0ba766cde978",
+      "png_sha256": "09da24aa53bb728ad9053eae1bc7e1bd1b57f3874d02a363d31c1c360ecc05af"
     },
     "common/MiguVideo.svg": {
       "svg_sha256": "7553853694c5d541a50250c74071589ee110dc611005f9d6659c4fdc81284b48",
@@ -4798,8 +4814,8 @@
       "png_sha256": "9190dabe4f2a5af2c0565f1aa8a6eb644ce6c6d7722d8dc536e5b7a1c1f42561"
     },
     "common/Misaka.io.svg": {
-      "svg_sha256": "715846dfba559cbcfac2259ae27874447766f50cc9e36269503b6037b8db6a59",
-      "png_sha256": "138e0a4f7b68cdd4c9409d952b1706d61d43e53b2d5dcb0ef2933413c94a3698"
+      "svg_sha256": "53a020f810bcadd49486efcfdc0966da06146d9a3a43a1ee721ed466642dfd44",
+      "png_sha256": "fb0b21b924d38e3dbfd25ed347ce9ea0c5dc4ccd122ff467a756b763b345a510"
     },
     "common/MissAV.svg": {
       "svg_sha256": "5c5c12b16de91ca66c2bd3a1fd135bad1a03665775ed1571268f7aa5d5eb0d56",
@@ -4814,8 +4830,8 @@
       "png_sha256": "d647ce46506707157256ac5335bf8fa8532476f7f3d2fac983bbb6c70331f589"
     },
     "common/Mitce.svg": {
-      "svg_sha256": "5599349227ad88f402ee84b3aa020a3c1359e5e7c998e76ea60e239f139bbec1",
-      "png_sha256": "9b7d77abf8c0db4773ae9be237149dbd92b4f1ac25b889f40e81efdb70f3adcc"
+      "svg_sha256": "9937a807fc5d95c52e116ed3b3bfa51fd96bb763c55c022c989e2c850ff23adc",
+      "png_sha256": "0cdde84a543bffe8d200d792aa96bce698e3f9e691b589ec017d8a79a12a78b5"
     },
     "common/MoJieJiChang.svg": {
       "svg_sha256": "ab8e1b0b8b090d481c592b7f265ed6b9323e4c995e0c458b94ff2b05ead07b47",
@@ -4962,8 +4978,8 @@
       "png_sha256": "2c7ec77485e9f7ccd672219d5b6245f54be11fdc94cc985418ec2ca81f72275b"
     },
     "common/NIVANetwork.svg": {
-      "svg_sha256": "fe41a5adeb4442c073287fe6d15b38a05d5b7cfb30204f564c141107e115396c",
-      "png_sha256": "cf2784b327f3e9f3ac52b013d6e38a6fe568af5313f06b8a84a474794386c23c"
+      "svg_sha256": "7293d17ed9e5c62be0cf80d5da44869794f9dc5535959fd393d73a717a0d49fc",
+      "png_sha256": "513ea2e5c05f4185d66d70edd70b68ffec7fc8783e29323f51e0613acd17289c"
     },
     "common/NMY.svg": {
       "svg_sha256": "5659375f8e6a66157018ead45cf6be79f6d6e9c521d62eef4db1417cc19f105f",
@@ -4972,6 +4988,10 @@
     "common/NO626.svg": {
       "svg_sha256": "666b651839466221b14f191054f3b74653acae8741aa68398561959a858b804e",
       "png_sha256": "f2082dbb7a8c7646d7ab71b548e223ff146d24de9a3d02d3d7e7b3ad23df3ecc"
+    },
+    "common/NPCCloud.svg": {
+      "svg_sha256": "bbe3e7a418b61e7a4bbd93cb5c5a7d436022c94d67a823875166f229b51313de",
+      "png_sha256": "08f2580fad38daaafc085cb643e4c746c76af33de5e48f26f8e168dc48ca5e8a"
     },
     "common/NPLCloud.svg": {
       "svg_sha256": "f8f186a7064f70a1d5d22cb9371bbb2d428638f1c1f01e7d4006edec2d77275a",
@@ -5012,6 +5032,10 @@
     "common/NanoCloud.svg": {
       "svg_sha256": "18b1bd4c655948f6098a6e7f089937c640ff3a13599397fc45707133cbce4dfd",
       "png_sha256": "2b43a85defee79982aa3477bf7c0f738750187628b4e4f9bb528669f5af4fa17"
+    },
+    "common/NanoPort.svg": {
+      "svg_sha256": "bd062f304dfbaa9c55cf5f43056643427a28d9ee2309ecb8ac8947f32376b820",
+      "png_sha256": "a44cc247219a34b05ca5aad98f67fe88e52a4e736d75c8949275b2083f5a7a40"
     },
     "common/NativeScript.svg": {
       "svg_sha256": "37f579b6333f82ae04b1e9e55382693ad488d2e57a35607def1c7f41a9f32c8b",
@@ -5106,8 +5130,8 @@
       "png_sha256": "be92aa94f27fe666cb84bd7a4e84e6caeabde9e74078e5b45685abf1d9463249"
     },
     "common/Nexitally.svg": {
-      "svg_sha256": "8c589b3a396a08b0602fa65af73d97f247520d76c78fc995f595308b3b6f791a",
-      "png_sha256": "b4ad7e065a0729b95a0fc6e248430e3ce399a121cb029ca3d1b3fa14d6aca597"
+      "svg_sha256": "0992838a078e4182aa9ba62db936d58579929c3112650d54e4de2582fa3557e1",
+      "png_sha256": "e2cd9c3958fad2bc3b8883b41fd257a2e7a13cb52f700c3bfa56a7abdc715327"
     },
     "common/Nexon.svg": {
       "svg_sha256": "74103755aff15dcdeae2e6cf1fa2e6bae26fb653705eaa314155a7d1faa7a488",
@@ -5233,13 +5257,17 @@
       "svg_sha256": "a04bddc1288c330e38ef7b234fa55a1cfae02be6a76da0620245d700f7bc8ad4",
       "png_sha256": "70cdb3e9f04f2d714b77eed76c368cd32c57612074809c0c371b2a711db06516"
     },
+    "common/Norfi.svg": {
+      "svg_sha256": "24db3b719267dbb92aa2272c379cc1a3b19452561c111132dd7abfd795058421",
+      "png_sha256": "e3747584e9dca70c4e32d851e044ffd1d15bc7e22e0a1d1c6f0e8a4fac8cc3d2"
+    },
     "common/NotebookLM.svg": {
       "svg_sha256": "94fb1946d0e57f2d5729231424059d92f5f0aa834c98382ec5d781a1ecf23570",
       "png_sha256": "ba1a16b6092911844ee9c5ad535ba3a6ae096298b64b5ab1c0010294f38059cd"
     },
     "common/NotepadPlusPlus.svg": {
-      "svg_sha256": "701f71d522a6d56b71c63ce791c73c35db8de8de7fd1acb1bd65308b56212a4b",
-      "png_sha256": "d58305213dc6331fa83dfeede7c0d4af573260ff0ff714189ffdc609c7094c71"
+      "svg_sha256": "09b96e37032202569acadb2d9f03a97178ed15b0e291a43e8f6812b3769a6091",
+      "png_sha256": "c8b3a5a34f5c193ebbdb59732c92f03e17bacab19bb2c4c655f2352a31b25245"
     },
     "common/Notion.svg": {
       "svg_sha256": "8b0ab0320a656c7cf7b18dc0c6e491e053675d725de89ba35602702f41589631",
@@ -5297,9 +5325,13 @@
       "svg_sha256": "bee384740f4b541d7e515524633aaef1cf167fa9efd793911b0b47f8128bfb68",
       "png_sha256": "a863d929777122344b5430e4601c11ab63f3a0840a27b8c9faf5ce7b26b057b4"
     },
+    "common/Nvenix.svg": {
+      "svg_sha256": "4c0d1ecbfffa485ee5aedd2d3149645d394c98cb4eafb08a31aed35a9b294883",
+      "png_sha256": "3a479f6031bf69f92d52cfbb12230d185d8eeb403c102b506bf1ea98c2677915"
+    },
     "common/Nyxen.svg": {
-      "svg_sha256": "7ca3855319259e1523e3d0148da5b85cb8a61c82e83589e0bda577d201ae4a5f",
-      "png_sha256": "b84b2527386ccc77ba6605a91e7a8e8b918e811b16674fb2a29f53e1e9e154f1"
+      "svg_sha256": "ebade33bbc639dea2a2924d16541186741c6559c3c7e276962c9d8aa5454247d",
+      "png_sha256": "aef6160e40569e63e159f6e491a9ba75f39964e301a7005c60decc9f8ac8bca5"
     },
     "common/OBSStudio.svg": {
       "svg_sha256": "406130c2959bdaa92ff095ffc18b0996aff3a333865e188062d057bae7564775",
@@ -5309,13 +5341,17 @@
       "svg_sha256": "687f9c396f376ad7cbce7f0f5f88b88c8c8ba64d52b57a27c96aa1124a646837",
       "png_sha256": "9a97edd04e4895f26013ed4d6ced98596b0a779eecb16f607d2ab3e0ad8d2de1"
     },
+    "common/OIXCloud.svg": {
+      "svg_sha256": "4ba49fae592c10fa92bee1a73f43363e79d67df8853267849626c37f61d81f2a",
+      "png_sha256": "7059747fd52accf2e3e716a46b1fefd16bb7524752c4436458ad7d3bde36c57e"
+    },
     "common/OKX.svg": {
       "svg_sha256": "6748b54e6177de34292cbf7d8404380f0bf35ad21ea342302e31a9c4acf75eb8",
       "png_sha256": "f5a90296507084cb8480afe978a222ed935febb8bc302893581be9f05eae89bc"
     },
     "common/ONNX.svg": {
-      "svg_sha256": "bf305d918ac309110cddaadd955135d4e2e04e43832dbbb0d0b61a9038ce8231",
-      "png_sha256": "3d1fdf9de2a82917d442b21c63d5b46334aff8de36cc868fe06c73d680ea6258"
+      "svg_sha256": "e8b9d6797ec89c09340bd37c292c20bb88652fe9d75738b21293f6b71031ee45",
+      "png_sha256": "64d483ddc3f7f2033a5e67d86cc7ddd1f7ea888da1cff6f4bcaa2cf3210ebbb6"
     },
     "common/OPNsense.svg": {
       "svg_sha256": "62bc7be3d33689939d43ff17d7c139f040dccf47dfd3795459e162795feff1cc",
@@ -5394,8 +5430,8 @@
       "png_sha256": "83697b9978aa1eaa058fbb284e089076c594af3d352ff0f7f868ca617dfe11f5"
     },
     "common/OpenAIGym.svg": {
-      "svg_sha256": "dd23d6ac6fd637a2a6d3a94eb4ba650b6177a5b741b5891a2b6ccdcf4b1a8470",
-      "png_sha256": "064754d853a4baab7887342975e0f67b06fc2db26834f4c8d95e5414e5b37505"
+      "svg_sha256": "ba50938e850b2cb22e3265a9d20bd027f92b5ea29e55a28d37e1a0ae8a995587",
+      "png_sha256": "533e5589aa6bb4629ebb8b0beaac9c48a3155dcb7484f486ffb79c4dbf50996b"
     },
     "common/OpenAPI.svg": {
       "svg_sha256": "544850fa005ce7fd1ba216256c343e790f39f8fc30a7210164f2c2fbdc3199f5",
@@ -5442,8 +5478,8 @@
       "png_sha256": "3529a136296e75ab58bdaf5ade400fb8f530fe8df0bbcb4d045a00a192c43095"
     },
     "common/OpenJSFoundation.svg": {
-      "svg_sha256": "f7438b2893e57890593337bf72e26b4137d76eb47be916e3332fa1c604c7b600",
-      "png_sha256": "6eb500d5073b2184fb011e977a420c7c2bed75ca6c897e79dab0f88ba9d108dc"
+      "svg_sha256": "f2e139be9959cf867b83bf8183e323da4e41d245a5db97e4fa109e8664d7c3c1",
+      "png_sha256": "7657fc8a712d9bb7d2555e29fa8afb18437300cbe5f7c71819455be824fde6a8"
     },
     "common/OpenMediaVault.svg": {
       "svg_sha256": "ecaa130c24102385a0ad60f14faa05d79bfb5de717e740b5f4dfb6f173207e48",
@@ -5578,8 +5614,8 @@
       "png_sha256": "ae90c210d6ab5da28bf86f23ca12d3bd810385a760f3d62e7c1f481c154248c9"
     },
     "common/Packagist.svg": {
-      "svg_sha256": "0132a7fba615d611bee50521e8b3e54dfbc4c2db9d0eeb7c52b6e5e3fec8776d",
-      "png_sha256": "e51e66512be734e62f271bb2b5ba75d33cc954950467bad775304cd56e6f6010"
+      "svg_sha256": "a3e9a43c1753ed58e85389939c64b6b4094bd33d520794d14cbb51a377cc14ad",
+      "png_sha256": "32a94bf5aad59e9ec675b7bf5c6a619cadb54a086d61960cf7b4462927989d48"
     },
     "common/Packer.svg": {
       "svg_sha256": "03cf4e275d2481a8ccbdd3e631ea73cd788332c51cbabb82d29b72c037f16c0c",
@@ -5638,8 +5674,8 @@
       "png_sha256": "35053ce2a6df6313b006a243cd14d183d69495e149be4e6274de90ae58e90ecc"
     },
     "common/Pastebin.svg": {
-      "svg_sha256": "0fa363d3e4ac7ace1484f4b4618e76924e0678c8f60dcfb8bc5e70aa949cef2b",
-      "png_sha256": "a0e6a973a406730b31f38549370ffcbe83fb73b55617cafea9634add09308669"
+      "svg_sha256": "9d99913fde8054dcf9b6f1ae412d715287c1bf63eef3a570f483f1e0a740e1cd",
+      "png_sha256": "04134f231b96bf500f4a050e3d4589d26420684272a116f0715bb658da7ca666"
     },
     "common/Patreon.svg": {
       "svg_sha256": "997ad5d7011fde39663622e9d2693807cd02ef144c0ca872535d85489f35dd77",
@@ -5686,8 +5722,8 @@
       "png_sha256": "33a861a1c1e86864328a499b7cb7e1e6c7aa095870657d8e63b81f0a10ccd90b"
     },
     "common/PeiQianJiChang.svg": {
-      "svg_sha256": "8aa00dc9e7a99cfaf04468a341e1f87b7661a1808b6e10877f309147b8e5883b",
-      "png_sha256": "8406c4423ff6f1f6e34e6c883a5694b84d200fdd7e58822a5c2471ccb8d3516b"
+      "svg_sha256": "9351cb4ec6eaf4cd17555156f0c074e6049ce0a5f605a5b4710a72f012014051",
+      "png_sha256": "f8efeb5fdb58299e1bfc5dad147814cbf5d0b8eabb3be5c4434441e2dcb3f65f"
     },
     "common/Penpot.svg": {
       "svg_sha256": "b90f066ea55b09b99e616fd4f391e9c79f9604754172a7ef99c5042ddd256fea",
@@ -5706,8 +5742,8 @@
       "png_sha256": "6640dc72f6b505c701048350aec899ef19bb22046bb59e20e635dc4f5320688d"
     },
     "common/Perplexity.svg": {
-      "svg_sha256": "f3c0e9db1d990ae1ec7cae5ff6a528157b9e730c7b0ae59d6b27cd540dae52c6",
-      "png_sha256": "1a97f111abf9e3a53e951e547b7d42fd9a53742ca93072c50f88cef3f9fa869d"
+      "svg_sha256": "f1d12715298a3570143656b49278bd23ea183676f6207916a6a864e27731394f",
+      "png_sha256": "e3aeb2ec547fefdd522b12dfaf4d90f3984b787be0e5962974e21a454053b7b6"
     },
     "common/Pexels.svg": {
       "svg_sha256": "0c1f67947d302bbd4b3d1adb9e9dd1a81f650c4f2b72020b038762d0af2af5a1",
@@ -5818,12 +5854,12 @@
       "png_sha256": "1fb1e51d5fd783321046918dcce18e4fe9244f42fc73a8717bb5a11280fe2245"
     },
     "common/PlayStation2.svg": {
-      "svg_sha256": "3645e73fe85c5882463bc2e3e797072261ed485014043dda22217d305929dd24",
-      "png_sha256": "8c643c2bcdace35939987d636b3967432b035d596b1699f435836b0d0d1d5b87"
+      "svg_sha256": "3e8aa9961ae6c415a78d71743b65b5eca84fff5a8859f17543989427ccdac897",
+      "png_sha256": "e537b6ce437ce441b98a1dc082f2797c450112442d3168aa8c886ce11fe71200"
     },
     "common/PlayStation3.svg": {
-      "svg_sha256": "a86e9315a376a24d60ed350028e9a31e3201b2c433bb89fcf17982a68d00f0f1",
-      "png_sha256": "c8f8f6d45f4a2588dd323b8a73951bad1f15b5cbd33d45626f78317ad8dd08aa"
+      "svg_sha256": "b9072b7247973339efb887bed2d37d11a067483af03254b12c0cd6df43a5068e",
+      "png_sha256": "44ef586743f546c8b4d59c44ceb087cc896ac99ab270920cff582106dd02eb57"
     },
     "common/Player2.svg": {
       "svg_sha256": "45de3a62c1f7227cb8c583248cd251aa941ba058d029511467d940379929bb74",
@@ -5922,8 +5958,8 @@
       "png_sha256": "0d245810052600b97dbdbc243515bda9b83b6c20f332244ec3c79174aa964405"
     },
     "common/PostgreSQL.svg": {
-      "svg_sha256": "d59ed3465fd7d75ce9d4d0e2da6f82668c1e68f5a76b78915274ac8f5dd969c8",
-      "png_sha256": "ac723f9b53849cdbe683dd3327455d9fe96bf0760f7aff1b59bcbbc322b1a559"
+      "svg_sha256": "8ab9647f55f910f7689b3d98f944c517e37849f8a5d3fac599e7416b71a05207",
+      "png_sha256": "cdda918106b35c81ccdf81833c7c63879e1c9d290f03e143b2bd8a607cf1a441"
     },
     "common/Postman.svg": {
       "svg_sha256": "f21e44599d3c5d5130ae16e5dfbba1160eeccdc1b321adbd46c7441222fd78c4",
@@ -5994,8 +6030,8 @@
       "png_sha256": "a97501958d0a4adad1f951546071138ecd495b01f1a8e9cd78e535cab608d6e8"
     },
     "common/Puzzle.svg": {
-      "svg_sha256": "795e21fa430846c72fcfec9fdac93be7e2402c3b91b302a6f7654ee18afdf7ae",
-      "png_sha256": "cec10d15d9f13bb72aa532abe1f3a4ee445dc3ac30c9b98bff63a92fcd9124a3"
+      "svg_sha256": "07c1f8b671f185dfe260c367b2b3bad9bfdb2edb56ef5bf62a67544a52f3dab2",
+      "png_sha256": "7969fdcd55e86286405deaef6c622b5b744016b4eaca54e5faa65a4e2b071ea9"
     },
     "common/PyCQA.svg": {
       "svg_sha256": "83dd59936c13c96c144611a1b43c7d674d6f9eee70027b8db97333c993cc55e0",
@@ -6194,8 +6230,8 @@
       "png_sha256": "6a0af9faf225730019f7f6507d78efbf00097736b5a5bc65baf15e346c94530d"
     },
     "common/Razer.svg": {
-      "svg_sha256": "b9772862832f0c9cc6c07f20ea441ab8eabdf7aaa1de6e82c09232f3a87eea28",
-      "png_sha256": "fecade9a3d51574dc7006e2d41dee9343b2bdbbf7d00382acd3026346d9d1046"
+      "svg_sha256": "fd662b39035ed03bf5c855dfbdfee2953348d40bec3476ea0796e945e8fc22ed",
+      "png_sha256": "b8bd9603e930e2561bd8c6525805934a6dedf159c8d395bc3f99b91b95417d9e"
     },
     "common/Rclone.svg": {
       "svg_sha256": "6e971e2f21f561d5f160e789ecf1a3a6de0d0ee71eee621b229e23564611fc47",
@@ -6378,8 +6414,8 @@
       "png_sha256": "0617b07657a96bce0d430e894e9f75679b3095b84bf65fb6aa5e0e6cbd9dfd01"
     },
     "common/RunLianJiaSu.svg": {
-      "svg_sha256": "e9741d2081fb1ff8fd4ef62087a99de16b86535f65fcc4044d660a6f2c6fa3b9",
-      "png_sha256": "059541b54a9ac84b8f812719e85b398c970e9c1a5dfffccf0dd02641b1fd7932"
+      "svg_sha256": "cf6ca691a94a83951b727395841ae50550916f1990226f187c75c447bc8510dc",
+      "png_sha256": "d87ffc67213b2fc3649d0e9c2c12fcbe9708832c2042ec3dcc2edb97f75d25d3"
     },
     "common/Runway.svg": {
       "svg_sha256": "677596cbb869a2dea02f3f3008f6cc9046433dc9eb98bc86e53424f34feb7778",
@@ -6502,8 +6538,8 @@
       "png_sha256": "cae96a59c0c300a8a79b782aa09a603c43f91aba757ff17747893f43963248b5"
     },
     "common/ScyllaDB.svg": {
-      "svg_sha256": "2e2cfc93ca8c97a1815dc75938f6ceb9ecb0d82dad42708f23496896095449b0",
-      "png_sha256": "4ece05ab15c1847ee0b9632b87d4166cabe6d9fbbd98455e16fcefc7ee15175d"
+      "svg_sha256": "8fd368627a80fbac77e901fa8c71a81c80bf986ee6b08d717b3cb243d3aab07c",
+      "png_sha256": "7ea6fcf90646ee75fb4296e4ad852d7679a5f367e3ab1ac222011e8d7d6cb0e8"
     },
     "common/SeLongYun.svg": {
       "svg_sha256": "7756c1912f281bb3c3addeb8537fa28e8348da8cfe6cc11baae3fb3b0b90979d",
@@ -6609,9 +6645,13 @@
       "svg_sha256": "c5bd10ceb7225fbe1ed9996ff33b2135884eb188f6ce5d57f56eac5f11b6f8d8",
       "png_sha256": "cbd5a58599e714b44f9c682b408481000929d212a0db7748736e0b73716a3fb5"
     },
-    "common/ShouHouWangLuo.svg": {
-      "svg_sha256": "e35ff6910fba0d530385c2d4b93e1e4254684be03b5d16991505b4b848d68a50",
+    "common/ShouHouWangLuo(1).svg": {
+      "svg_sha256": "5fead56041a9359d66aa007629bdc507df731d0991b63578960e1684d2306d8d",
       "png_sha256": "1108b6c565a548c567392d499a530d7aa9f3fc7039484372b79befb856f4cccf"
+    },
+    "common/ShouHouWangLuo.svg": {
+      "svg_sha256": "f7127fb58e904bbcb2a89c1baf0b98d841c3a755997d70ed4bb52afecf998574",
+      "png_sha256": "04133648332145ad32339668a985816c2d4c687dea6e4201cc307092609ec6fd"
     },
     "common/ShouSiYunVPN.svg": {
       "svg_sha256": "8ad38e02f070b1e93bdf6d62aa24c7f3e77362dd716bb34e84d4254ec485eca5",
@@ -6698,8 +6738,8 @@
       "png_sha256": "db8843a7debdd4d885df34fb0031b474f283b0ee25947ae31a4fea1dc86e907e"
     },
     "common/Snort.svg": {
-      "svg_sha256": "b9bc04df1d82fc183949ff8196177de73886ed95a6c8eabbef5699fcdad68412",
-      "png_sha256": "99b134276e03b78f94c67f3f3b2142474774de4fe927f325275ae1d92a080395"
+      "svg_sha256": "8b538e015563956f5ef2fe459b9c9b686b35f1e9d85a29dcb587d968fe9b264d",
+      "png_sha256": "149435b2de88c0156644c412facc286d7118d5a1863eb7308777088330fd2e41"
     },
     "common/Snowflake.svg": {
       "svg_sha256": "48103d6b398175620f67437ce40ea14d13d316ecd995de7ab5ece11963c07926",
@@ -6896,6 +6936,10 @@
     "common/Stellar.svg": {
       "svg_sha256": "79ed7fc6be5fad0b9fd0fb7f36818c427aed16a1bd15a61a45e001f2a8ba9683",
       "png_sha256": "10a253657c7815bb5b5b2d29d7516656dda91d3ce4ef94980875dccafb834949"
+    },
+    "common/Stepfly.svg": {
+      "svg_sha256": "d44dd917809477a602e6b402ba832772d5729852a974c54186d2005cce5c85f5",
+      "png_sha256": "2e30b421ab5a6f8f1a3afa0c8eec6cd601fa2a448efd27eaa8f7b4171c477a3b"
     },
     "common/Stepfun.svg": {
       "svg_sha256": "6e20a8782f01a0cd531e4a1f663e2ba0d1fd1405ee38ebac82af6665680e1fb7",
@@ -7142,8 +7186,8 @@
       "png_sha256": "fe08c1a5ca63b832863fbd724a244578a46618c70a258ff830267c10281bf8d0"
     },
     "common/TeLangPuYun.svg": {
-      "svg_sha256": "acbd0a038d8ee981cae1240afccdd194d82c80fae55cd2a1e167eae478ec5794",
-      "png_sha256": "b339e7cade99ba79a41452c2224167440aa3a7aa6eb355955a658a523c3aefd2"
+      "svg_sha256": "3af8f63b20d5e576d7d5661464dea16915fa6a7dc065fa7b0f59b06aff39d22f",
+      "png_sha256": "656145f85720cfdfa61c63f412bff3eb41f92cee7b826422b63feab75cb3fdcb"
     },
     "common/TeamCity.svg": {
       "svg_sha256": "6f53ba5d4059849e10f8e90c6ef8054c58f67219d80630da56a5ff1c6c8864e7",
@@ -7338,8 +7382,8 @@
       "png_sha256": "f4ed6e56ac6415eeace1b66ca0df6548980fb3375bb64f01591f965016ea368b"
     },
     "common/Translink.svg": {
-      "svg_sha256": "fe9578ebcac6ed66cf71fd5c06cb7a7581a0f6f22016a88e1b10d27b38fec364",
-      "png_sha256": "6abcf8a6255a04c0775d29cd351950bbf36c16f1beb5bbb6875eee5b8edcdd31"
+      "svg_sha256": "14201e52b0709e7d08c51146b5d4850263b1d8d93b65d1a7ff9e94782bf94ec8",
+      "png_sha256": "8cf4ed17ce4db51b0550212470a282d8c1266c943e19f1d155b9d4b722563445"
     },
     "common/Transmission.svg": {
       "svg_sha256": "cf606439a0dcf5e36a733c414196c7497e895f539eca5a0aaa3c6e0eae4208d7",
@@ -7590,8 +7634,8 @@
       "png_sha256": "a42b0a4379b4fdf0136f806e5ea1b8f2c502bf02944a665711139914e16dfc7e"
     },
     "common/VDNET.svg": {
-      "svg_sha256": "9123468d08d6ad82480f25fa1e2f301a7af9cf15633ccd50bac24bc7a7abe56a",
-      "png_sha256": "0c4f3d6ba1a61733b8b87debab80f7f69e9fdaeecc86d142b1848bc930a86068"
+      "svg_sha256": "d1723891d1e24903e256401a46a0867970bdbdef5b5a5fa63ab1294b532c2084",
+      "png_sha256": "c5f62e7ca77c6e3e984bc3c76d8dd8d1876ba9409955dd95a8ab5546ee566183"
     },
     "common/VIP.svg": {
       "svg_sha256": "fabce8038268671e53e63e99d4f445d83947d6790a23639074f073165fbec687",
@@ -7614,8 +7658,8 @@
       "png_sha256": "fc0239c1cfb17667ff0e489ffcadcc210234e638f37917ee4a34486701964ed8"
     },
     "common/VRChat.svg": {
-      "svg_sha256": "120826714e5bdc8d9aecd8ddc30cfd2c4194a96fdc09b7d61a00e8d362c57390",
-      "png_sha256": "c2a11b14e8bc9ee33edf60457aaafd3f096f7d50d643fd91ac672283ad38d3d2"
+      "svg_sha256": "e3ad631905d0c0f14f7a8caac6051563204188865afd4fb350f65f4dea12adb1",
+      "png_sha256": "c83da67e5597c9617f4b747d19ebdeb30c33ecf5fe5f6839bd83facd19754782"
     },
     "common/Vagrant.svg": {
       "svg_sha256": "29addb09ece9f58a00a75bd8c165415234bd9bb80355109e32741a362815d5e7",
@@ -7802,8 +7846,8 @@
       "png_sha256": "2fcf2971ac04a2a7800266ffe775bcbbf191c79ff4021fd82e94b2c3727164f0"
     },
     "common/WaveNebula.svg": {
-      "svg_sha256": "412a1f3314c232472dbb50b4fda65f6204d6d908dd04eb74267d55e7a0274446",
-      "png_sha256": "d365e2ce74b861e21ae89b20e3928026a1d2965e168ff131be703b418396cb27"
+      "svg_sha256": "17c0b41c33b18f52b6b37c12a3c77f3925b21dd8a4b61c7e5a62133c47dbf083",
+      "png_sha256": "12e9a9c6570d0828378f5d7ba6229025b269baf062f606a40ac3ddf34fea77b4"
     },
     "common/WaveSpeed.svg": {
       "svg_sha256": "76d4e269631f3687711a69252635874ae8666331a4d169c507453c9cce729fa2",
@@ -7962,20 +8006,24 @@
       "png_sha256": "924910166c9ddf023247365c1648062cc9afe0942092a6a52d7c45f47613b7c0"
     },
     "common/WorldRouter.svg": {
-      "svg_sha256": "759f766c71ea53e1aa79a8ac762b673293aae3109aefcf35f11839c9104e5522",
-      "png_sha256": "1b609920e1ed5a3c2bbb88de05de479656d272ee7f5a2baf32a103f2b6ff7ed0"
+      "svg_sha256": "e84e58f3ad8fc625db57b408a851287f3d0ebc634b840c2a2bcdedd1e3254573",
+      "png_sha256": "3d52109af9549b1b7199e7d6377d76832e65761e2de1848b57b144afcdd1aef5"
     },
     "common/WuKongYun.svg": {
       "svg_sha256": "bf9cde3bad498432d2e7c2f734028567c745d243ecca89e7bb11ec74149a540c",
       "png_sha256": "6c5e0080ec6fe15ef5038e903bca059be69820f0fa83e3c4b7acf274a9535c3d"
     },
+    "common/WulaVPN.svg": {
+      "svg_sha256": "c1a2d182f5c871e3814a77a05f1c01342fdfe3bc60ebfc1ba07f580e0145f08f",
+      "png_sha256": "f44032ab3f1b17c795e9e51818492ce2f936ce825122f317172ed2164b4fb229"
+    },
     "common/X(1).svg": {
-      "svg_sha256": "af87187407d25937023edd8f47ae57db0eb18389b7f6aca5aea32c3e5098d771",
-      "png_sha256": "e91b71d732337d588975647222e1380bdf8c90d5ef1d4ca93f345fbfc8bf44f4"
+      "svg_sha256": "b76d22fdad0f0880fb23d00ff610b4dd604c5dbfcbd26eded181222ecba0c9fd",
+      "png_sha256": "ca2b9a856bad9ba26e122f033dc0255436dbaf2e89b42bdd36768431864b0267"
     },
     "common/X.svg": {
-      "svg_sha256": "0d4301a9d955ef88fe61131adca61310b79321dccfcc7553d25440d52db8f22d",
-      "png_sha256": "aef8a9d645cdf1a96740d0d0e7a4f86ad7f5a3d435a83cf1175a8cea3d4cdcc8"
+      "svg_sha256": "a3728f386e515cfa0f690f1c391f1ff945705032aa4542a6426cbf824ab2696e",
+      "png_sha256": "4ca9d84c6b5ec579adbc14ddae3e4d462b2d58789f41b7e152e6ceb6ec2bc24f"
     },
     "common/XAI.svg": {
       "svg_sha256": "529a38bfe8cba658d91e876088fee56d51dea3313b4feb1a482b26964cbfe0b1",
@@ -7990,8 +8038,8 @@
       "png_sha256": "b6d8aa3461555c0bbc5df07f197d0d87360bf37be0616b03797c97a169431524"
     },
     "common/XSUS.svg": {
-      "svg_sha256": "10476e90374fb00d5e9829e3b3b7c8ac1de48bf52305f353c16e4ab8a4802e58",
-      "png_sha256": "bdf34baa8ffc3ae433db0a766a685c28508d711b91355cdc319024635e70656f"
+      "svg_sha256": "f0cf213072e75c8b8c44b8836ac2b08c71e6a9158b24d630dad3f414a28912ed",
+      "png_sha256": "4af05ca4aab3a2eb0bdfb0501799d739f3a0f064f5828a2d4648c8efc1eee064"
     },
     "common/XSWL.svg": {
       "svg_sha256": "b1ebea282dd98ec5ed00d5f2ae0a0c9a8b8022501f6f23ddafc35434eec51548",
@@ -8073,13 +8121,9 @@
       "svg_sha256": "957cdddeb1a28b40f7c0519d60c2a9e6575d46afa3ea8e8faf75c8974e3d57b8",
       "png_sha256": "430c3d5c3c04799565682054e5458472c1505e10b29da80cac908c24ff364b25"
     },
-    "common/XingLianJiChang.svg": {
-      "svg_sha256": "b3f0d5e8d5944c053e7324231065bb1a0700f3a6b8c756222d74a047bd7d6eaf",
-      "png_sha256": "f93d9fdf64daa3eeacd5a30096c2fc42025bfbf9441d931d02f94d2b09af587c"
-    },
     "common/XingWang.svg": {
-      "svg_sha256": "8a81556192ae20dd1f3d77d7461a842aa581ac816fdd67f2355b9fd3532278e9",
-      "png_sha256": "2d1df87d82848c75b722bd07a9c5b833e3188a3ced946829df42ecbde0806cd5"
+      "svg_sha256": "9eb9c68d5f775a8f5cf87f57c591e8d3d79d333c7b4bb67a38dae37bc1f988a6",
+      "png_sha256": "e2cf7db5e0e40a60b0ff791113ea8ecd23466e1b68170713e1d26bf32c22aeba"
     },
     "common/Xpay.svg": {
       "svg_sha256": "37b8352f202dfffa91eabb64798abc2d0c2b08a0ce9858f83110ee5f34ce3a00",
@@ -8090,8 +8134,8 @@
       "png_sha256": "96b40cc29ab0fdb7863192ad88e6f1b43599953901142ac19336dfa5ada2fe83"
     },
     "common/XueShanJiChang.svg": {
-      "svg_sha256": "cf136d4007e6e3f616a4333f926f917581e112e709b18e0e08163456a9c66e07",
-      "png_sha256": "5658d5319e67c651788502a37f26d41f04d78a61f2e66b02dcc92f9af31999af"
+      "svg_sha256": "7ec13b2306b072fded23873b2ba023d3ee076799c685199803f2310816a09bd7",
+      "png_sha256": "445d58dea2a630475afaf03476042d8c1304bfab3146e47e2535de3ccbee322a"
     },
     "common/Xueqiu.svg": {
       "svg_sha256": "ed68b8bc5bae65c8a66c9a16e422f7ee2a11a44e66ce568782042709ce9d9f07",
@@ -8108,6 +8152,10 @@
     "common/YTO.svg": {
       "svg_sha256": "3ae8bfca8e7ac41e3175a39464e9bb9c09c3ee48823764387a081505634a1962",
       "png_sha256": "d507db2d6a20d308559c62c39c2e5433130a93a57841701ed65f7b2db1ca914d"
+    },
+    "common/YToo.svg": {
+      "svg_sha256": "6390d03f63fa6716ca01546e7f7f332148ca17feb52136c9e0993bc62d685e15",
+      "png_sha256": "dd806a7d3f1a63ca4b9ab28bcaa2bf2c214484719d17e1a0cf93b59e7a763b44"
     },
     "common/Yaak.svg": {
       "svg_sha256": "15c2799ecb0fd7a6fa819a9e2204338f524083506d91a09201a839c9fb982a45",
@@ -8220,6 +8268,10 @@
     "common/YunHaiHuLian.svg": {
       "svg_sha256": "32e6a4dceaa3a6f55255af6f6fb1607de9c1e33c62f5890b62a0fd273d769210",
       "png_sha256": "a23c30b04715062e13dbd1d3faed31bab4d08880f04d1ac9cc8e24e09d79051e"
+    },
+    "common/YunKaiJianYue.svg": {
+      "svg_sha256": "1a4f9ba522c09155d211413166bd213fbba0583a2bcd23efa5cdd75814a51aa0",
+      "png_sha256": "f33c1ceff93ea276567aa3829a282f4cef53a1ee226dd2ee992dc116e37d50d2"
     },
     "common/YunShangYun.svg": {
       "svg_sha256": "bb05a63c713c608a5887666e291cbb7ff98dccca5379e4f5104054ff76b63525",
@@ -8986,8 +9038,8 @@
       "png_sha256": "2f6a2048425ef2225d0ebcce3d6af7ac786f498dd7fa0827316443754745f0d7"
     },
     "flag/Macau.svg": {
-      "svg_sha256": "c1c0723eb2b780ac3ceae9bec74d52a8ee3af6e85b47f4a8f1c30fd96a2ed925",
-      "png_sha256": "204be12cbad479d21b145feaa5b64d1f13cf731a45feecf3e365b1192d3828b3"
+      "svg_sha256": "9327bdd77ebc2dcefd872bf298f6a68aef12e0495ed2a7439a0ee38da9eef2ff",
+      "png_sha256": "fc88bef9723b31e41fb725a0b037baaf88b7bbb8d992cabd9acca52213fed53f"
     },
     "flag/Madagascar.svg": {
       "svg_sha256": "9d8673e763daa6716dda6e687be5240634d38444648c9f784fd6d805144555ec",
