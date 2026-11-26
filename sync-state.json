@@ -1,12 +1,12 @@
 {
   "upstream": "aaANDkk/Qure_Style_SVG",
-  "upstream_commit": "6cf0a369b92355a931e3f73b7ec31e40fcec7b9e",
+  "upstream_commit": "ce2c9bbbedcf27c1c6219e83d93df233c2348802",
   "renderer": "resvg-2.6.2-256-v1",
   "size": 256,
-  "count": 2478,
+  "count": 2479,
   "categories": {
     "common": 2208,
-    "flag": 270
+    "flag": 271
   },
   "icons": {
     "common/1YunTi.svg": {
@@ -9052,6 +9052,10 @@
     "flag/China.svg": {
       "svg_sha256": "28c418270cdf4de0979d21b08fbe265a7816cadfdac0b0de391046ec893b9d32",
       "png_sha256": "d46f67601378ead63c27c3dcd165deb91ba755e572ac3840f424c2e93bb0cdd4"
+    },
+    "flag/China_Taiwan(1).svg": {
+      "svg_sha256": "8b1052719d3cc7ecbd429003a93b8447158c83aafe1a7e4efcaf3be2c4f61ad0",
+      "png_sha256": "9c5850fc5ef8172330a835526329b9a1d5377c708e17996add159773961ca2f6"
     },
     "flag/China_Taiwan.svg": {
       "svg_sha256": "1c6e7f30c57c5e6d1bde331fa37bc7741fac4d41504e31ac201c11790553416a",
